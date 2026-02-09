@@ -6,7 +6,28 @@ Elephant Bookstore — Muscle Shoals, Alabama (est. 2012)
 
 Founded in 2012, Elephant Bookstore is a beloved independent bookstore located in Muscle Shoals, Alabama, offering a welcoming space for readers, learners, and book lovers of all kinds. Known for its carefully curated selection of bestselling novels, timeless classics, children’s stories, and local interest titles, Elephant Bookstore celebrates the joy of reading and lifelong discovery. With a cozy atmosphere and a strong connection to the community, it serves as more than just a shop—it’s a gathering place where stories are shared, ideas are sparked, and the love of literature continues to grow.
 ## Wireframe
-insert wireframe here
+---------------------------------------------------------
+| Elephant Bookstore Logo        |   Home | Books | Events | Contact |
+---------------------------------------------------------
+|                                                               |
+|                 HERO SECTION / MAIN BANNER                    |
+|      “A cozy community bookstore in Muscle Shoals”            |
+|                 [Featured Book / Call to Action]              |
+|                                                               |
+---------------------------------------------------------
+|                        ABOUT US                               |
+|  A welcoming space for readers, learners, and book lovers.    |
+|  Est. 2012 — celebrating stories, ideas, and community.       |
+---------------------------------------------------------
+|                        FEATURED SECTIONS                      |
+|   [Staff Picks]      [New Arrivals]      [Local Favorites]    |
+---------------------------------------------------------
+|                        COMMUNITY EVENTS                        |
+|   Book clubs • Author signings • Children’s storytime          |
+---------------------------------------------------------
+|                           FOOTER                               |
+|   Address | Hours | Social Media | Contact Info                |
+---------------------------------------------------------
 
 ## System Requirements
 -[] Implement all pictures provided by business
