@@ -75,3 +75,8 @@ The footer should be simple, structured, and easy to scan.
 - [ ] Implement "tatteredReadsLibrariansChoiceBanner.jpg" as a "Librarian's Choice" section
 
 ## Technical Requirements
+- This website will primarily be built using HTML and CSS.
+- JavaScript may be used for simple interactive features.
+- The project will be hosted using GitHub Pages [link].
+- No external APIs will be required.
+- All work will be maintained and version-controlled through GitHub.
