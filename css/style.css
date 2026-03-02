@@ -36,3 +36,43 @@ nav ul {
     font-size: 1.2rem;
     margin: 0.5rem 0;
 }
+
+/* Main Content Container */
+.main-content {
+    padding: 3rem 1rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Individual Sections */
+.content-section {
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+/* Section Headings */
+.content-section h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Divider */
+.content-section hr {
+    width: 60px;
+    margin: 1rem auto 2rem;
+    border: 2px solid #333;
+}
+
+/* Section Images */
+.content-section img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-bottom: 1.5rem;
+}
+
+/* Section Paragraphs */
+.content-section p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
