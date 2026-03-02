@@ -68,11 +68,11 @@ A full‑width footer bar containing:
 The footer should be simple, structured, and easy to scan.
 
 ## System Requirements
-- [ ] Implement all pictures provided by business
+- [x] Implement all pictures provided by business
 
-- [ ] Ensure that aesthetic follows established brand logo
+- [x] Ensure that aesthetic follows established brand logo
 
-- [ ] Implement "tatteredReadsLibrariansChoiceBanner.jpg" as a "Librarian's Choice" section
+- [x] Implement "tatteredReadsLibrariansChoiceBanner.jpg" as a "Librarian's Choice" section
 
 ## Technical Requirements
 - This website will primarily be built using HTML and CSS.
